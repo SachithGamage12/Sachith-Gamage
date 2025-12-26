@@ -19,7 +19,8 @@ Email Me 👉 ✉️ **sachithgamage2310@gmail.com** For Collaboration/Project o
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SachithGamage12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=SachithGamage12)
+
 
 
 # 💻 Tech Stack:
